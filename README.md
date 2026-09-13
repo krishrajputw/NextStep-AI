@@ -156,7 +156,7 @@ Save Assessment
 ![Career Assessment](screenshots/assessment.png)
 
 ### AI Questions
-![AI Questions](screenshots/AI-questions.png)
+![AI Questions](screenshots/AI-Questions.png)
 
 ### Career Recommendations
 ![Career Recommendations](screenshots/Recommendation.png)
