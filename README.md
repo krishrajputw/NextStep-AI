@@ -147,48 +147,25 @@ Save Assessment
 ```
 
 
+## 📸 Screenshots
 
-\## 📸 Screenshots
+### Home Page
+![Home Page](screenshots/Home.png)
 
+### Career Assessment
+![Career Assessment](screenshots/assessment.png)
 
+### AI Questions
+![AI Questions](screenshots/AI-questions.png)
 
-\### Home Page
+### Career Recommendations
+![Career Recommendations](screenshots/Recommendation.png)
 
+### Login Page
+![Login Page](screenshots/Login.png)
 
-
-> Screenshot coming soon.
-
-
-
-\### Career Assessment
-
-
-
-> Screenshot coming soon.
-
-
-
-\### AI Career Questions
-
-
-
-> Screenshot coming soon.
-
-
-
-\### Career Recommendations
-
-
-
-> Screenshot coming soon.
-
-
-
-\### Authentication
-
-
-
-> Screenshot coming soon.
+### Career Roadmap
+![Career Roadmap](screenshots/roadmap.png)
 
 
 
